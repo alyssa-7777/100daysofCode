@@ -1,2 +1,3 @@
 # 100daysofCode
-100daysofCode
+
+* day1 : FizzBuzz
