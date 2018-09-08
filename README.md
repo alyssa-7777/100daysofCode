@@ -7,4 +7,5 @@
 * day5 : yukicoder No.21 平均の差
 * day6 : yukicoder No.24 数当てゲーム
 * day7 : AtCoder ABC086A Product
+* day8 : AtCoder ABC081A Placing Marbles
 
