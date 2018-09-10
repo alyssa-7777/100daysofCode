@@ -9,4 +9,5 @@
 * day7 : AtCoder ABC086A Product
 * day8 : AtCoder ABC081A Placing Marbles
 * day9 : AtCoder ABC081B Shift only
+* day10 : AtCoder ABC087B Coins
 
