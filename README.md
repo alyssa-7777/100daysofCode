@@ -11,5 +11,6 @@
 * day9 : AtCoder ABC081B Shift only
 * day10 : AtCoder ABC087B Coins
 * day11 : AtCoder ABC083B Some Sums
-* day12 : AtCoder Card Game for Two
+* day12 : AtCoder ABC088B Card Game for Two
+* day13 : AtCoder ABC085B Kagami Mochi
 
