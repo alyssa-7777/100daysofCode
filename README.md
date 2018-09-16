@@ -15,4 +15,5 @@
 * day13 : AtCoder ABC085B Kagami Mochi
 * day14 : yukicoder No.32 貯金箱の憂鬱
 * day15 : yukicoder No.46 はじめのn歩
+* day16 : yukicoder No.56 消費税
 
