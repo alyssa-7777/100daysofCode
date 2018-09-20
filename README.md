@@ -19,4 +19,5 @@
 * day17 : yukicoder No.69 文字を自由に並び替え
 * day18 : AOJ 0000 QQ
 * day19 : AOJ 0001 List of Top 3 Hills
+* day20 : yukicoder No.79 過小評価ダメ・ゼッタイ
 
