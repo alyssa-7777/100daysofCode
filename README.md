@@ -20,4 +20,5 @@
 * day18 : AOJ 0000 QQ
 * day19 : AOJ 0001 List of Top 3 Hills
 * day20 : yukicoder No.79 過小評価ダメ・ゼッタイ
+* day21 : yukicoder No.128 お年玉(1)
 
