@@ -22,4 +22,5 @@
 * day20 : yukicoder No.79 過小評価ダメ・ゼッタイ
 * day21 : yukicoder No.128 お年玉(1)
 * day22 : yukicoder No.163 cAPSlOCK
+* day23 : yukicoder No.169 何分かかるの！？
 
