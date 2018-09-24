@@ -23,4 +23,5 @@
 * day21 : yukicoder No.128 お年玉(1)
 * day22 : yukicoder No.163 cAPSlOCK
 * day23 : yukicoder No.169 何分かかるの！？
+* day24 : yukicoder No.188 HAPPY DAY
 
