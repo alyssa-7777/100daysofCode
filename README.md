@@ -27,4 +27,5 @@
 * day25 : yukicoder No.207 世界のなんとか
 * day26 : yukicoder No.264 じゃんけん
 * day27 : yukicoder No.275 中央値を求めよ
+* day28 : yukicoder No.289 数字を全て足そう
 
